@@ -25,11 +25,6 @@ An AI-powered Resume Analyzer built using Python, Streamlit, Gemini API, and RAG
 - llm.py - Gemini integration
 - rag.py - RAG pipeline
 - requirements.txt - Dependencies
-
-## Installation
-
-```bash
-pip install -r requirements.txt
 ## Sample Use Case
 
 1. Upload your resume (PDF)
@@ -51,3 +46,7 @@ pip install -r requirements.txt
 - Resume Parsing
 - Vector Search
 
+## Installation
+
+```bash
+pip install -r requirements.txt
