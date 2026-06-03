@@ -30,3 +30,24 @@ An AI-powered Resume Analyzer built using Python, Streamlit, Gemini API, and RAG
 
 ```bash
 pip install -r requirements.txt
+## Sample Use Case
+
+1. Upload your resume (PDF)
+2. Paste the job description
+3. Click Analyze
+4. Get:
+   - ATS Score
+   - Missing Skills
+   - Resume Improvement Suggestions
+
+## Skills Demonstrated
+
+- Python Development
+- Generative AI
+- Prompt Engineering
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Streamlit Development
+- Resume Parsing
+- Vector Search
+
